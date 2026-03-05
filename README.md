@@ -32,4 +32,4 @@ Flask + SQL Server: Processa e armazena as informações.
 Android (Este App): Exibe os dados para tomada de decisão rápida.
 
 👩‍💻 Autora
-Luana Julia - Fullstack, IoT & Mobile Developer
+Luana Julia 
