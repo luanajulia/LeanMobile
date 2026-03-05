@@ -6,7 +6,7 @@ O **LeanMobile** é o braço móvel do ecossistema LeanMonitor. Desenvolvido em 
 
 ## 📸 Interface do Aplicativo
 <p align="center">
-  <img src="./assets/app-screenshot.png" width="300" alt="Screenshot do App">
+  <img src="./assets/preview_leanmobile.png" width="300" alt="Screenshot do App">
 </p>
 
 ## ✨ Funcionalidades Mobile
